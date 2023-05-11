@@ -1,9 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        
+
+     Task01:
         //String reverse
         
         String str = "I love Java!"
         
     }
+    ------------------------------------
+    Task02:
+
+    custom method Palindrome
+
+    public static String Palindrome(String str){
+
+    continue...
+    }
+    ------------------------------------
+
+
 }
